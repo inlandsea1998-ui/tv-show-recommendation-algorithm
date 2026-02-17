@@ -1,0 +1,501 @@
+primaryTitle,startYear,genres,averageRating,numVotes
+Game of Thrones,2011.0,"Action,Adventure,Drama",9.2,2530154
+Breaking Bad,2008.0,"Crime,Drama,Thriller",9.5,2468242
+Stranger Things,2016.0,"Drama,Fantasy,Horror",8.6,1650794
+Friends,1994.0,"Comedy,Romance",8.9,1179466
+The Walking Dead,2010.0,"Drama,Horror,Thriller",8.1,1179419
+Sherlock,2010.0,"Crime,Drama,Mystery",9.0,1077011
+Chernobyl,2019.0,"Drama,History,Thriller",9.3,1007566
+The Big Bang Theory,2007.0,"Comedy,Romance",8.1,928752
+Dexter,2006.0,"Crime,Drama,Mystery",8.6,908273
+The Boys,2019.0,"Action,Comedy,Crime",8.6,829476
+The Office,2005.0,Comedy,9.0,815606
+Better Call Saul,2015.0,"Crime,Drama",9.0,798669
+How I Met Your Mother,2005.0,"Comedy,Drama,Romance",8.3,774946
+Peaky Blinders,2013.0,"Crime,Drama",8.7,751357
+Squid Game,2021.0,"Action,Crime,Drama",7.9,741885
+True Detective,2014.0,"Crime,Drama,Mystery",8.8,739703
+Black Mirror,2011.0,"Crime,Drama,Mystery",8.7,726215
+The Last of Us,2023.0,"Action,Adventure,Drama",8.5,721128
+Rick and Morty,2013.0,"Adventure,Animation,Comedy",9.0,683270
+Attack on Titan,2013.0,"Action,Adventure,Animation",9.1,680892
+Lost,2004.0,"Adventure,Drama,Fantasy",8.3,663655
+Prison Break,2005.0,"Action,Crime,Drama",8.3,655687
+The Queen's Gambit,2020.0,Drama,8.5,649906
+The Mandalorian,2019.0,"Action,Adventure,Fantasy",8.6,645324
+Vikings,2013.0,"Action,Adventure,Drama",8.5,633813
+The Witcher,2019.0,"Action,Adventure,Drama",7.9,616200
+Money Heist,2017.0,"Action,Crime,Drama",8.2,595336
+Band of Brothers,2001.0,"Action,Drama,History",9.4,584795
+House,2004.0,Drama,8.7,584213
+The Sopranos,1999.0,"Crime,Drama",9.2,562897
+House of Cards,2013.0,"Drama,Thriller",8.6,555843
+Westworld,2016.0,"Drama,Mystery,Sci-Fi",8.4,555146
+Modern Family,2009.0,"Comedy,Drama,Romance",8.5,533132
+Suits,2011.0,"Comedy,Drama",8.4,531874
+Supernatural,2005.0,"Drama,Fantasy,Horror",8.4,530832
+Dark,2017.0,"Crime,Drama,Mystery",8.7,527315
+Daredevil,2015.0,"Action,Crime,Drama",8.6,521783
+Narcos,2015.0,"Biography,Crime,Drama",8.7,519910
+House of the Dragon,2022.0,"Action,Adventure,Drama",8.3,502600
+Wednesday,2022.0,"Comedy,Crime,Fantasy",8.0,486049
+The Simpsons,1989.0,"Animation,Comedy",8.6,464619
+Loki,2021.0,"Action,Adventure,Fantasy",8.2,464175
+Death Note,2006.0,"Animation,Crime,Drama",8.9,463849
+Fargo,2014.0,"Crime,Drama,Thriller",8.8,462185
+Mr. Robot,2015.0,"Crime,Drama,Thriller",8.5,460047
+Arrow,2012.0,"Action,Adventure,Crime",7.5,459117
+South Park,1997.0,"Animation,Comedy",8.7,439848
+The Lord of the Rings: The Rings of Power,2022.0,"Action,Adventure,Drama",6.9,435612
+Arcane,2021.0,"Action,Adventure,Animation",9.0,431387
+Ted Lasso,2020.0,"Comedy,Drama,Sport",8.8,430747
+Avatar: The Last Airbender,2005.0,"Action,Adventure,Animation",9.3,430163
+The Wire,2002.0,"Crime,Drama,Thriller",9.3,423556
+WandaVision,2021.0,"Action,Comedy,Fantasy",7.9,410669
+Brooklyn Nine-Nine,2013.0,"Comedy,Crime",8.4,410067
+Sex Education,2019.0,"Comedy,Drama,Romance",8.2,392291
+Mindhunter,2017.0,"Crime,Drama,Mystery",8.6,389063
+Lucifer,2016.0,"Crime,Drama,Fantasy",8.0,387111
+Ozark,2017.0,"Crime,Drama,Thriller",8.4,386201
+Family Guy,1999.0,"Animation,Comedy",8.1,385293
+The Flash,2014.0,"Action,Adventure,Drama",7.5,383074
+Seinfeld,1989.0,Comedy,8.9,380815
+Homeland,2011.0,"Crime,Drama,Mystery",8.3,379395
+The Vampire Diaries,2009.0,"Drama,Fantasy,Horror",7.7,377829
+Severance,2022.0,"Drama,Mystery,Sci-Fi",8.7,371673
+Grey's Anatomy,2005.0,"Drama,Romance",7.6,369992
+Fallout,2024.0,"Action,Adventure,Drama",8.3,366359
+American Horror Story,2011.0,"Drama,Horror,Sci-Fi",7.9,360114
+You,2018.0,"Crime,Drama,Romance",7.6,359639
+Sons of Anarchy,2008.0,"Crime,Drama,Thriller",8.5,350791
+Succession,2018.0,"Comedy,Drama",8.8,344636
+Arrested Development,2003.0,Comedy,8.6,341010
+One Piece,1999.0,"Action,Adventure,Animation",9.0,340591
+13 Reasons Why,2017.0,"Drama,Mystery,Thriller",7.4,336314
+Orange Is the New Black,2013.0,"Comedy,Crime,Drama",8.0,334347
+Shameless,2011.0,"Comedy,Drama",8.5,327735
+The Haunting of Hill House,2018.0,"Drama,Horror,Mystery",8.5,323517
+Aspirants,2021.0,Drama,9.1,317437
+The White Lotus,2021.0,"Comedy,Drama",8.0,312922
+The Umbrella Academy,2019.0,"Action,Adventure,Comedy",7.8,311776
+Parks and Recreation,2009.0,Comedy,8.6,311271
+Community,2009.0,Comedy,8.5,308882
+Moon Knight,2022.0,"Action,Adventure,Fantasy",7.3,306079
+Hannibal,2013.0,"Crime,Drama,Horror",8.5,304096
+The Bear,2022.0,"Comedy,Drama",8.5,302008
+Yellowstone,2018.0,"Drama,Western",8.6,300426
+The 100,2014.0,"Action,Drama,Sci-Fi",7.5,300182
+Invincible,2021.0,"Action,Adventure,Animation",8.7,299782
+Firefly,2002.0,"Adventure,Drama,Sci-Fi",8.9,298961
+The Blacklist,2013.0,"Crime,Drama,Mystery",7.9,297813
+The Punisher,2017.0,"Action,Crime,Drama",8.4,296216
+Two and a Half Men,2003.0,"Comedy,Romance",7.1,295812
+The Handmaid's Tale,2017.0,"Drama,Sci-Fi,Thriller",8.3,293263
+Spartacus,2010.0,"Action,Adventure,Biography",8.4,293103
+Euphoria,2019.0,Drama,8.2,288486
+Mad Men,2007.0,Drama,8.7,285528
+Reacher,2022.0,"Action,Crime,Drama",8.0,283993
+Scrubs,2001.0,"Comedy,Drama",8.4,281545
+Adolescence,2025.0,"Crime,Drama,Thriller",8.1,280778
+It's Always Sunny in Philadelphia,2005.0,Comedy,8.8,278416
+The Crown,2016.0,"Biography,Drama,History",8.6,278045
+The Falcon and the Winter Soldier,2021.0,"Action,Adventure,Drama",7.1,277047
+Futurama,1999.0,"Adventure,Animation,Comedy",8.5,276945
+The X-Files,1993.0,"Adventure,Crime,Drama",8.6,269799
+True Blood,2008.0,"Drama,Fantasy,Mystery",7.9,269793
+Fringe,2008.0,"Drama,Mystery,Sci-Fi",8.4,268073
+Andor,2022.0,"Action,Adventure,Drama",8.6,264834
+Doctor Who,2005.0,"Adventure,Drama,Sci-Fi",8.5,261554
+New Girl,2011.0,"Comedy,Romance",7.8,260998
+Heroes,2006.0,"Crime,Drama,Fantasy",7.5,259029
+Obi-Wan Kenobi,2022.0,"Action,Adventure,Sci-Fi",7.0,258443
+Gotham,2014.0,"Action,Crime,Drama",7.8,250373
+Once Upon a Time,2011.0,"Adventure,Fantasy,Romance",7.7,246535
+Downton Abbey,2010.0,"Drama,Romance",8.7,243751
+The End of the F***ing World,2017.0,"Adventure,Comedy,Crime",8.0,243071
+Big Little Lies,2017.0,"Crime,Drama,Mystery",8.4,242126
+Twin Peaks,1990.0,"Crime,Drama,Mystery",8.7,242020
+Fullmetal Alchemist: Brotherhood,2009.0,"Action,Adventure,Animation",9.1,240824
+Fleabag,2016.0,"Comedy,Drama",8.7,240436
+Hawkeye,2021.0,"Action,Adventure,Crime",7.4,239910
+Cobra Kai,2018.0,"Action,Comedy,Drama",8.4,239546
+Shōgun,2024.0,"Action,Adventure,Drama",8.6,238207
+Jessica Jones,2015.0,"Action,Crime,Drama",7.8,237454
+Criminal Minds,2005.0,"Crime,Drama,Mystery",8.1,237429
+Agents of S.H.I.E.L.D.,2013.0,"Action,Adventure,Sci-Fi",7.5,234007
+Planet Earth,2006.0,"Documentary,Family",9.4,233576
+The Penguin,2024.0,"Crime,Drama",8.6,227641
+"Love, Death & Robots",2019.0,"Action,Adventure,Animation",8.4,226496
+BoJack Horseman,2014.0,"Animation,Comedy,Drama",8.8,226494
+One Punch Man,2015.0,"Action,Animation,Comedy",8.6,220426
+The Mentalist,2008.0,"Crime,Drama,Mystery",8.2,219909
+Monster,2022.0,"Biography,Crime,Drama",7.8,219831
+Mare of Easttown,2021.0,"Crime,Drama,Mystery",8.4,216987
+The Good Place,2016.0,"Comedy,Drama,Fantasy",8.2,216488
+Boardwalk Empire,2010.0,"Crime,Drama",8.6,216146
+Demon Slayer: Kimetsu no Yaiba,2019.0,"Action,Adventure,Animation",8.6,215758
+Naruto: Shippuden,2007.0,"Action,Adventure,Animation",8.7,215070
+Bridgerton,2020.0,"Drama,Romance",7.4,214144
+Gossip Girl,2007.0,"Drama,Romance",7.5,212221
+The Sandman,2022.0,"Drama,Fantasy,Horror",7.6,207023
+She-Hulk: Attorney at Law,2022.0,"Action,Adventure,Comedy",5.2,206707
+The Book of Boba Fett,2021.0,"Action,Adventure,Sci-Fi",7.1,206352
+Silo,2023.0,"Drama,Mystery,Sci-Fi",8.1,205987
+24,2001.0,"Action,Crime,Drama",8.4,205637
+Person of Interest,2011.0,"Action,Crime,Drama",8.5,202963
+Rome,2005.0,"Action,Drama,Romance",8.7,201493
+Only Murders in the Building,2021.0,"Comedy,Crime,Drama",8.0,200924
+Altered Carbon,2018.0,"Action,Adventure,Drama",7.9,200585
+That '70s Show,1998.0,"Comedy,Drama,Romance",8.1,197446
+Outlander,2014.0,"Adventure,Drama,Fantasy",8.3,196976
+Californication,2007.0,"Comedy,Drama",8.3,194292
+The Night Of,2016.0,"Crime,Drama,Mystery",8.4,191115
+Tom Clancy's Jack Ryan,2018.0,"Action,Crime,Drama",8.0,190073
+The Expanse,2015.0,"Drama,Mystery,Sci-Fi",8.5,189107
+Bones,2005.0,"Crime,Drama,Mystery",7.8,188399
+Peacemaker,2022.0,"Action,Adventure,Comedy",8.3,188286
+Pretty Little Liars,2010.0,"Drama,Mystery,Romance",7.3,187118
+Baby Reindeer,2024.0,"Biography,Comedy,Drama",7.7,186775
+Hunter x Hunter,2011.0,"Action,Adventure,Animation",9.0,185889
+Battlestar Galactica,2004.0,"Action,Adventure,Drama",8.7,185444
+The Last Kingdom,2015.0,"Action,Drama,History",8.5,185414
+Castle,2009.0,"Comedy,Crime,Drama",8.1,185067
+One Piece,2023.0,"Action,Adventure,Comedy",8.3,184017
+Entourage,2004.0,"Comedy,Drama",8.4,182623
+Jujutsu Kaisen,2020.0,"Action,Adventure,Animation",8.5,181440
+Silicon Valley,2014.0,Comedy,8.5,179714
+The Last Dance,2020.0,"Biography,Documentary,History",9.0,177291
+How to Get Away with Murder,2014.0,"Crime,Drama,Mystery",8.1,177224
+Teen Wolf,2011.0,"Action,Drama,Fantasy",7.7,176422
+3 Body Problem,2024.0,"Adventure,Drama,Fantasy",7.5,176007
+NCIS,2003.0,"Action,Crime,Drama",7.8,175061
+The IT Crowd,2006.0,Comedy,8.5,174570
+Archer,2009.0,"Action,Animation,Comedy",8.6,174560
+Dragon Ball Z,1996.0,"Action,Adventure,Animation",8.8,173849
+The Gentlemen,2024.0,"Action,Comedy,Crime",8.0,173758
+Planet Earth II,2016.0,Documentary,9.4,173077
+Gravity Falls,2012.0,"Adventure,Animation,Comedy",8.9,172560
+This Is Us,2016.0,"Comedy,Drama,Romance",8.7,172480
+Buffy the Vampire Slayer,1997.0,"Action,Adventure,Drama",8.3,172398
+Scam 1992: The Harshad Mehta Story,2020.0,"Biography,Crime,Drama",9.2,171392
+The Heroes,2008.0,"Animation,Drama,History",8.4,171333
+Gilmore Girls,2000.0,"Comedy,Drama",8.2,171209
+Sense8,2015.0,"Drama,Mystery,Sci-Fi",8.2,170430
+Schitt's Creek,2015.0,Comedy,8.5,168590
+Bodyguard,2018.0,"Crime,Drama,Mystery",8.0,167781
+After Life,2019.0,"Comedy,Drama",8.4,166510
+Midnight Mass,2021.0,"Drama,Fantasy,Horror",7.7,165897
+Cowboy Bebop,1998.0,"Action,Adventure,Animation",8.9,165717
+Six Feet Under,2001.0,"Comedy,Drama",8.7,165275
+Curb Your Enthusiasm,2000.0,Comedy,8.8,164691
+From,2022.0,"Drama,Horror,Mystery",7.8,164269
+Riverdale,2017.0,"Crime,Drama,Mystery",6.4,164248
+Freaks and Geeks,1999.0,"Comedy,Drama",8.8,163379
+The Wheel of Time,2021.0,"Action,Adventure,Drama",7.2,162589
+Luther,2010.0,"Crime,Drama,Mystery",8.4,162518
+Naruto,2002.0,"Action,Adventure,Animation",8.4,161640
+Taboo,2017.0,"Drama,Mystery,Thriller",8.3,161226
+Glee,2009.0,"Comedy,Drama,Music",6.8,160721
+Beef,2023.0,"Comedy,Drama",8.0,158915
+The Originals,2013.0,"Drama,Fantasy,Horror",8.2,158902
+1883,2021.0,"Drama,Western",8.7,158701
+What If...?,2021.0,"Action,Adventure,Animation",7.3,158620
+Sex and the City,1998.0,"Comedy,Drama,Romance",7.4,158262
+When They See Us,2019.0,"Biography,Crime,Drama",8.8,156425
+The Marvelous Mrs. Maisel,2017.0,"Comedy,Drama",8.6,156356
+Lupin,2021.0,"Action,Crime,Drama",7.5,155686
+Malcolm in the Middle,2000.0,"Comedy,Drama,Family",8.2,154819
+Chuck,2007.0,"Action,Comedy,Drama",8.2,153119
+Fear the Walking Dead,2015.0,"Drama,Horror,Sci-Fi",6.8,152875
+White Collar,2009.0,"Comedy,Crime,Drama",8.2,152301
+Desperate Housewives,2004.0,"Comedy,Drama,Mystery",7.6,152058
+IT,1990.0,"Drama,Horror,Mystery",6.8,151864
+The Fresh Prince of Bel-Air,1990.0,Comedy,7.9,151859
+Killing Eve,2018.0,"Action,Adventure,Drama",8.1,151571
+The Sinner,2017.0,"Crime,Drama,Mystery",7.8,150567
+The Night Agent,2023.0,"Action,Drama,Thriller",7.4,149408
+Mr. Bean,1990.0,"Comedy,Family",8.6,148935
+Smallville,2001.0,"Action,Adventure,Drama",7.5,148801
+The Legend of Korra,2012.0,"Action,Adventure,Animation",8.3,148793
+The Morning Show,2019.0,Drama,8.1,148206
+Star Trek: The Next Generation,1987.0,"Action,Adventure,Drama",8.7,147962
+Iron Fist,2017.0,"Action,Adventure,Crime",6.4,147640
+Dexter: New Blood,2021.0,"Crime,Drama,Mystery",8.0,147499
+Luke Cage,2016.0,"Action,Crime,Drama",7.2,147074
+Star Trek: Discovery,2017.0,"Action,Adventure,Drama",7.0,144787
+Watchmen,2019.0,"Crime,Drama,Mystery",8.2,144414
+Gen V,2023.0,"Action,Adventure,Comedy",7.6,143734
+American Dad!,2005.0,"Animation,Comedy",7.4,143322
+Banshee,2013.0,"Action,Crime,Drama",8.4,143247
+Young Sheldon,2017.0,Comedy,7.7,142719
+The Haunting of Bly Manor,2020.0,"Drama,Horror,Mystery",7.4,142569
+Law & Order: Special Victims Unit,1999.0,"Crime,Drama,Mystery",8.1,142536
+The Pacific,2010.0,"Action,Adventure,Drama",8.3,142187
+Alice in Borderland,2020.0,"Action,Drama,Horror",7.8,142139
+King the Land,2023.0,"Comedy,Drama,Romance",5.8,141373
+The Acolyte,2024.0,"Action,Adventure,Fantasy",4.3,140706
+Star Wars: The Clone Wars,2008.0,"Action,Adventure,Animation",8.5,140242
+Slow Horses,2022.0,"Drama,Thriller",8.3,140235
+Emily in Paris,2020.0,"Comedy,Drama,Romance",6.8,140177
+Broadchurch,2013.0,"Crime,Drama,Mystery",8.3,139913
+Barry,2018.0,"Action,Comedy,Crime",8.3,139699
+Grimm,2011.0,"Action,Adventure,Crime",7.9,139175
+Cosmos: A Spacetime Odyssey,2014.0,Documentary,9.2,139151
+Penny Dreadful,2014.0,"Drama,Fantasy,Horror",8.2,138470
+Black Bird,2022.0,"Biography,Crime,Drama",8.1,138334
+Ahsoka,2023.0,"Action,Adventure,Fantasy",7.4,138135
+30 Rock,2006.0,Comedy,8.3,137176
+Top Gear,2002.0,"Adventure,Comedy,Sport",8.7,135597
+Batman: The Animated Series,1992.0,"Action,Adventure,Animation",9.0,135193
+Sharp Objects,2018.0,"Crime,Drama,Mystery",8.0,135110
+Unbelievable,2019.0,"Crime,Drama",8.3,134811
+Lie to Me,2009.0,"Crime,Drama,Mystery",8.0,134176
+Supergirl,2015.0,"Action,Adventure,Drama",6.2,134145
+The Newsroom,2012.0,Drama,8.6,133673
+The Fall of the House of Usher,2023.0,"Drama,Horror,Mystery",7.9,132416
+The Killing,2011.0,"Crime,Drama,Mystery",8.3,132367
+The Office,2001.0,"Comedy,Drama",8.5,131330
+The Fall,2013.0,"Crime,Drama,Thriller",8.1,130466
+Adventure Time,2010.0,"Action,Adventure,Animation",8.6,130213
+Ms. Marvel,2022.0,"Action,Adventure,Comedy",6.2,129965
+Justified,2010.0,"Action,Crime,Drama",8.6,129139
+Revenge,2011.0,"Drama,Mystery,Thriller",7.8,128895
+The Leftovers,2014.0,"Drama,Fantasy,Mystery",8.3,127776
+The Good Doctor,2017.0,Drama,8.0,127445
+Deadwood,2004.0,"Crime,Drama,History",8.6,127193
+Elementary,2012.0,"Action,Adventure,Crime",7.9,125708
+The OA,2016.0,"Drama,Fantasy,Mystery",7.8,125612
+Vinland Saga,2019.0,"Action,Adventure,Animation",8.8,125439
+The Terminal List,2022.0,"Action,Drama,Thriller",7.9,125411
+Dexter: Resurrection,2025.0,"Crime,Drama,Thriller",9.0,125300
+Dhindora,2021.0,"Comedy,Drama",8.8,125279
+The Defenders,2017.0,"Action,Adventure,Crime",7.2,124903
+What We Do in the Shadows,2019.0,"Comedy,Fantasy,Horror",8.5,124697
+The Day of the Jackal,2024.0,"Action,Crime,Drama",8.1,124660
+Bates Motel,2013.0,"Drama,Horror,Mystery",8.1,124609
+Black Sails,2014.0,"Action,Adventure,Drama",8.2,124259
+Orphan Black,2013.0,"Drama,Sci-Fi,Thriller",8.3,123876
+SpongeBob SquarePants,1999.0,"Animation,Comedy,Family",8.2,123712
+Foundation,2021.0,"Drama,Sci-Fi",7.6,123667
+Shadow and Bone,2021.0,"Action,Adventure,Drama",7.5,123611
+The Night Manager,2016.0,"Crime,Drama,Mystery",8.0,122488
+Good Omens,2019.0,"Comedy,Drama,Fantasy",8.0,122292
+The Americans,2013.0,"Crime,Drama,Mystery",8.4,121904
+Weeds,2005.0,"Comedy,Crime,Drama",7.9,121868
+1899,2022.0,"Adventure,Drama,Thriller",7.3,121237
+The Man in the High Castle,2015.0,"Drama,Sci-Fi,Thriller",7.9,120773
+Cyberpunk: Edgerunners,2022.0,"Action,Adventure,Animation",8.3,119653
+Psych,2006.0,"Comedy,Crime,Mystery",8.4,118982
+The Rookie,2018.0,"Action,Crime,Drama",8.0,118803
+Titans,2018.0,"Action,Adventure,Crime",7.4,118630
+Under the Dome,2013.0,"Drama,Mystery,Sci-Fi",6.5,117921
+Maid,2021.0,Drama,8.3,117799
+Chilling Adventures of Sabrina,2018.0,"Drama,Fantasy,Horror",7.4,117691
+11.22.63,2016.0,"Drama,Mystery,Romance",8.0,117416
+Married... with Children,1987.0,Comedy,8.1,117063
+Billions,2016.0,Drama,8.3,117005
+The Undoing,2020.0,"Crime,Drama,Mystery",7.4,115921
+The Idol,2023.0,"Drama,Music",4.4,115703
+Oz,1997.0,"Crime,Drama,Thriller",8.7,115572
+My Name Is Earl,2005.0,Comedy,7.8,115477
+Russian Doll,2019.0,"Comedy,Drama,Mystery",7.7,115359
+Panchayat,2020.0,"Comedy,Drama",9.0,115322
+My Hero Academia,2016.0,"Action,Adventure,Animation",8.2,114430
+Designated Survivor,2016.0,"Action,Drama,Mystery",7.4,114160
+DC's Legends of Tomorrow,2016.0,"Action,Adventure,Drama",6.7,114030
+Tulsa King,2022.0,"Action,Crime,Drama",7.9,114025
+The Outsider,2020.0,"Crime,Drama,Horror",7.6,113628
+2 Broke Girls,2011.0,Comedy,6.7,112916
+Yellowjackets,2021.0,"Drama,Mystery,Thriller",7.7,112795
+Atypical,2017.0,"Comedy,Drama",8.2,112676
+Normal People,2020.0,"Drama,Romance",8.4,112534
+Lost in Space,2018.0,"Adventure,Drama,Family",7.3,112158
+Misfits,2009.0,"Comedy,Drama,Fantasy",8.1,112129
+Shrinking,2023.0,"Comedy,Drama",8.1,111470
+Pluribus,2025.0,"Drama,Sci-Fi",8.0,111126
+The Family Man,2019.0,"Action,Comedy,Crime",8.7,111034
+Fawlty Towers,1975.0,Comedy,8.8,110482
+See,2019.0,"Action,Drama,Sci-Fi",7.6,109496
+Dead to Me,2019.0,"Comedy,Crime,Drama",7.9,108976
+Halo,2022.0,"Action,Adventure,Sci-Fi",7.3,108891
+The Orville,2017.0,"Adventure,Comedy,Sci-Fi",8.0,107799
+Making a Murderer,2015.0,"Crime,Documentary",8.5,107592
+The Twilight Zone,1959.0,"Drama,Fantasy,Horror",9.0,107277
+Stargate SG-1,1997.0,"Action,Adventure,Drama",8.4,107226
+Neon Genesis Evangelion,1995.0,"Action,Animation,Drama",8.5,106428
+Locke & Key,2020.0,"Drama,Fantasy,Horror",7.3,106307
+Ginny & Georgia,2021.0,"Comedy,Drama",7.5,105043
+Dept. Q,2025.0,"Crime,Drama,Mystery",8.1,104979
+Last Week Tonight with John Oliver,2014.0,"Comedy,News,Talk-Show",8.8,104527
+MobLand,2025.0,"Crime,Drama",8.3,104169
+Outer Banks,2020.0,"Action,Crime,Drama",7.5,103754
+Leyla and Mecnun,2011.0,"Adventure,Comedy,Drama",9.0,103323
+Legion,2017.0,"Action,Sci-Fi,Thriller",8.1,102792
+The O.C.,2003.0,"Comedy,Drama,Romance",7.6,102650
+Manifest,2018.0,"Drama,Mystery,Sci-Fi",7.0,102579
+Solo Leveling,2024.0,"Action,Adventure,Animation",8.5,102297
+Frasier,1993.0,Comedy,8.2,102021
+Pride and Prejudice,1995.0,"Drama,Romance",8.8,102000
+American Crime Story,2016.0,"Biography,Crime,Drama",8.4,101977
+Dragon Ball Z,1989.0,"Action,Adventure,Animation",8.8,101972
+The Pitt,2025.0,Drama,8.9,101586
+Bob's Burgers,2011.0,"Animation,Comedy",8.2,101172
+Monk,2002.0,"Comedy,Crime,Drama",8.1,100811
+Blue Eye Samurai,2023.0,"Action,Adventure,Animation",8.7,100643
+Star Trek: Picard,2020.0,"Action,Adventure,Drama",7.5,100473
+Narcos: Mexico,2018.0,"Biography,Crime,Drama",8.3,100403
+Elite,2018.0,"Crime,Drama,Thriller",7.1,100232
+The Inbetweeners,2008.0,Comedy,8.4,99988
+Code Geass,2006.0,"Action,Animation,Drama",8.7,99794
+Star Trek,1966.0,"Action,Adventure,Drama",8.4,99650
+Skins,2007.0,Drama,8.2,99431
+Ray Donovan,2013.0,"Crime,Drama",8.3,98819
+Unorthodox,2020.0,Drama,8.0,98229
+Charmed,1998.0,"Drama,Fantasy,Mystery",7.2,97946
+The West Wing,1999.0,Drama,8.9,97916
+American Gods,2017.0,"Drama,Fantasy,Mystery",7.6,97639
+1923,2022.0,"Drama,Western",8.3,97339
+Big Mouth,2017.0,"Animation,Comedy,Romance",7.8,97334
+Atlanta,2016.0,"Comedy,Drama,Music",8.6,97314
+Sacred Games,2018.0,"Action,Crime,Drama",8.5,97119
+Alien: Earth,2025.0,"Horror,Sci-Fi,Thriller",7.1,96503
+Falling Skies,2011.0,"Action,Adventure,Drama",7.1,96395
+The Shield,2002.0,"Crime,Drama,Thriller",8.7,96284
+Bosch,2014.0,"Crime,Drama",8.5,96206
+The Following,2013.0,"Crime,Drama,Horror",7.4,95387
+The Diplomat,2023.0,"Drama,Thriller",8.0,94853
+Chainsaw Man,2022.0,"Action,Animation,Comedy",8.3,94674
+Agent Carter,2015.0,"Action,Adventure,Crime",7.8,94002
+The Grand Tour,2016.0,"Adventure,Comedy,Sport",8.7,93703
+The King of Queens,1998.0,Comedy,7.4,93692
+CSI: Crime Scene Investigation,2000.0,"Crime,Drama,Mystery",7.7,93447
+His Dark Materials,2019.0,"Adventure,Drama,Fantasy",7.7,93334
+One Tree Hill,2003.0,"Drama,Romance,Sport",7.8,93221
+Castlevania,2017.0,"Action,Adventure,Animation",8.3,93097
+Never Have I Ever,2020.0,"Comedy,Drama",7.8,92793
+Merlin,2008.0,"Adventure,Drama,Fantasy",7.9,92623
+The Strain,2014.0,"Drama,Fantasy,Horror",7.3,92492
+Mirzapur,2018.0,"Action,Crime,Thriller",8.4,92326
+Maniac,2018.0,"Comedy,Drama,Sci-Fi",7.6,92234
+Raised by Wolves,2020.0,"Drama,Fantasy,Sci-Fi",7.4,92234
+Presumed Innocent,2024.0,"Crime,Drama,Mystery",7.7,92103
+Landman,2024.0,Drama,8.2,91918
+The Watcher,2022.0,"Drama,Horror,Mystery",6.5,91752
+Heartstopper,2022.0,"Drama,Romance",8.5,91466
+Kota Factory,2019.0,"Comedy,Drama",9.0,91136
+When the Phone Rings,2024.0,"Drama,Mystery,Romance",5.9,91087
+Dopesick,2021.0,Drama,8.6,90784
+Tiger King,2020.0,"Biography,Crime,Documentary",7.5,90444
+Behind Her Eyes,2021.0,"Drama,Mystery,Thriller",7.2,90411
+The Peripheral,2022.0,"Drama,Mystery,Sci-Fi",7.5,89993
+Godless,2017.0,"Action,Drama,Western",8.2,89831
+Steins;Gate,2011.0,"Animation,Comedy,Drama",8.8,89699
+Inventing Anna,2022.0,Drama,6.9,89370
+Upload,2020.0,"Comedy,Mystery,Sci-Fi",7.8,89241
+Bleach,2004.0,"Action,Adventure,Animation",8.2,88784
+Secret Invasion,2023.0,"Action,Adventure,Mystery",5.8,88778
+The Good Wife,2009.0,"Crime,Drama,Mystery",8.3,88538
+Terra Nova,2011.0,"Adventure,Drama,Mystery",6.7,88457
+Carnival Row,2019.0,"Crime,Drama,Fantasy",7.7,87845
+Revolution,2012.0,"Action,Adventure,Drama",6.6,87825
+Twin Peaks,2017.0,"Crime,Drama,Horror",8.5,87731
+The Lincoln Lawyer,2022.0,"Crime,Drama,Mystery",7.8,87569
+Queen Cleopatra,2023.0,"Documentary,Drama,History",1.2,87460
+IT: Welcome to Derry,2025.0,"Fantasy,Horror",8.0,87368
+All of Us Are Dead,2022.0,"Action,Drama,Fantasy",7.6,87342
+Over the Garden Wall,2014.0,"Adventure,Animation,Comedy",8.7,87057
+Monty Python's Flying Circus,1969.0,Comedy,8.8,86701
+Preacher,2016.0,"Adventure,Comedy,Fantasy",7.9,86397
+The Tudors,2007.0,"Drama,History,Romance",8.1,86347
+Agatha All Along,2024.0,"Action,Adventure,Comedy",7.2,86246
+Hijack,2023.0,"Drama,Thriller",7.4,85899
+Blindspot,2015.0,"Action,Crime,Drama",7.3,85187
+Fullmetal Alchemist,2003.0,"Action,Adventure,Animation",8.5,85083
+Daredevil: Born Again,2025.0,"Action,Crime,Drama",8.1,85079
+Louie,2010.0,"Comedy,Drama",8.5,84991
+Resident Alien,2021.0,"Comedy,Drama,Mystery",8.0,84969
+Ash vs Evil Dead,2015.0,"Action,Comedy,Horror",8.4,84364
+Battlestar Galactica,2003.0,"Action,Adventure,Drama",8.5,84340
+Lioness,2023.0,"Action,Drama,Thriller",7.8,84042
+For All Mankind,2019.0,"Drama,Sci-Fi",8.1,83768
+Scandal,2012.0,"Drama,Thriller",7.7,83694
+Marco Polo,2014.0,"Action,Adventure,Drama",7.9,83578
+The Bridge,2011.0,"Crime,Mystery,Thriller",8.6,83535
+Star Trek: Voyager,1995.0,"Action,Adventure,Drama",7.9,83232
+Avatar: The Last Airbender,2024.0,"Action,Adventure,Comedy",7.2,83147
+Clarkson's Farm,2021.0,"Comedy,Documentary,Reality-TV",9.0,83144
+Unbreakable Kimmy Schmidt,2015.0,Comedy,7.5,82864
+American Primeval,2025.0,"Action,Drama,Thriller",8.0,82752
+Santa Clarita Diet,2017.0,"Comedy,Horror",7.8,82443
+Burn Notice,2007.0,"Action,Crime,Drama",8.0,82392
+Girls,2012.0,"Comedy,Drama",7.4,82383
+Hawaii Five-0,2010.0,"Action,Adventure,Comedy",7.4,82328
+Superstore,2015.0,Comedy,7.9,82265
+Everybody Loves Raymond,1996.0,Comedy,7.3,82249
+Veronica Mars,2004.0,"Crime,Drama,Mystery",8.3,81819
+I Am Not Okay with This,2020.0,"Comedy,Drama,Fantasy",7.5,81654
+Velma,2023.0,"Adventure,Animation,Comedy",1.6,81178
+Da Vinci's Demons,2013.0,"Adventure,Biography,Drama",7.9,81062
+Nobody Wants This,2024.0,"Comedy,Drama,Romance",7.8,80247
+Angel,1999.0,"Action,Adventure,Drama",7.9,80059
+Line of Duty,2012.0,"Crime,Drama,Mystery",8.7,79514
+TVF Pitchers,2015.0,"Comedy,Drama",9.1,79285
+Tokyo Ghoul,2014.0,"Action,Animation,Drama",7.7,79229
+Disenchantment,2018.0,"Action,Adventure,Animation",7.2,79214
+Your Honor,2020.0,"Crime,Drama,Thriller",7.6,79013
+Anne with an E,2017.0,"Drama,Family",8.6,78715
+Master of None,2015.0,"Comedy,Drama",8.2,78489
+iZombie,2015.0,"Comedy,Crime,Drama",7.8,78464
+Ratched,2020.0,"Crime,Drama,History",7.2,78464
+Friday Night Lights,2006.0,"Drama,Sport",8.7,78382
+Defending Jacob,2020.0,"Crime,Drama,Mystery",7.8,78359
+Chappelle's Show,2003.0,"Comedy,Music",8.8,78179
+Sweet Tooth,2021.0,"Action,Adventure,Drama",7.7,78036
+Ballers,2015.0,"Comedy,Drama,Sport",7.6,77839
+Sandeep Bhaiya,2023.0,Drama,9.1,76874
+Star Trek: Deep Space Nine,1993.0,"Action,Adventure,Drama",8.1,76230
+Shadowhunters,2016.0,"Action,Drama,Fantasy",6.5,76128
+Paranormal,2020.0,"Drama,Fantasy,Horror",8.0,75624
+ER,1994.0,"Drama,Romance",7.9,75598
+Dragon Ball,1986.0,"Action,Adventure,Animation",8.5,75185
+Space Force,2020.0,Comedy,6.7,75149
+Stargate: Atlantis,2004.0,"Action,Adventure,Drama",8.1,75146
+Sapne Vs Everyone,2023.0,Drama,9.2,75009
+Berserk,1997.0,"Action,Adventure,Animation",8.7,74922
+Limitless,2015.0,"Comedy,Crime,Drama",7.6,74644
+Dragon Ball,1995.0,"Action,Adventure,Animation",8.5,74468
+Paatal Lok,2020.0,"Action,Crime,Drama",8.2,74460
+Derry Girls,2018.0,Comedy,8.5,73991
+Queen Charlotte: A Bridgerton Story,2023.0,"Drama,History,Romance",7.6,73922
+A Discovery of Witches,2018.0,"Drama,Fantasy,Romance",7.8,73774
+Snowpiercer,2020.0,"Action,Drama,Sci-Fi",6.9,73741
+Heated Rivalry,2025.0,"Drama,Romance,Sport",9.0,73629
+Star Trek: Strange New Worlds,2022.0,"Action,Adventure,Sci-Fi",8.2,73349
+Nine Perfect Strangers,2021.0,"Drama,Mystery,Thriller",6.9,73074
+Black Doves,2024.0,"Action,Drama,Mystery",7.2,72978
+Peep Show,2003.0,Comedy,8.7,72898
+Bleach: Thousand-Year Blood War,2022.0,"Action,Adventure,Animation",9.0,72391
+Happy Valley,2014.0,"Crime,Drama,Thriller",8.5,72210
+Erased,2016.0,"Animation,Crime,Drama",8.4,72091
+A Series of Unfortunate Events,2017.0,"Adventure,Comedy,Drama",7.7,71587
+Regular Show,2010.0,"Action,Adventure,Animation",8.6,71556
+Dark Matter,2024.0,"Drama,Sci-Fi,Thriller",7.6,71506
+Travelers,2016.0,"Drama,Mystery,Sci-Fi",8.0,71285
+Chicago Fire,2012.0,"Action,Drama",8.0,70783
+The Perfect Couple,2024.0,"Crime,Drama,Mystery",6.5,70683
+Veep,2012.0,Comedy,8.4,70639
+Asur: Welcome to Your Dark Side,2020.0,"Crime,Drama,Mystery",8.5,70201
+Vikings: Valhalla,2022.0,"Action,Adventure,Drama",7.4,69931
+Mayor of Kingstown,2021.0,"Crime,Drama,Thriller",8.2,69877
+The Summer I Turned Pretty,2022.0,"Drama,Romance",7.3,69619
+Flight of the Conchords,2007.0,"Comedy,Music,Musical",8.5,69372
+Eastbound & Down,2009.0,"Comedy,Drama,Sport",8.2,69276
+Masters of the Air,2024.0,"Action,Drama,History",7.8,68745
+M*A*S*H,1972.0,"Comedy,Drama,War",8.5,68553
+Don't F**k with Cats: Hunting an Internet Killer,2019.0,"Crime,Documentary,Mystery",8.0,68331
+The Stranger,2020.0,"Crime,Drama,Mystery",7.2,68307
+The Last Ship,2014.0,"Action,Drama,Sci-Fi",7.4,68300
+The Last Man on Earth,2015.0,"Action,Comedy,Drama",7.4,67730
+Fool Me Once,2024.0,"Crime,Drama,Mystery",6.8,67405
+Cheers,1982.0,"Comedy,Drama",8.0,67295
+The Chosen,2017.0,"Drama,History",9.1,67247
