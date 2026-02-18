@@ -1,4 +1,4 @@
-**📺 TV Show Recommendation Algorithm (url: https://tv-show-recommendation-algorithm.streamlit.app/)**
+**📺 TV Show Recommendation Algorithm **[Streamlit App URL](https://tv-show-recommendation-algorithm.streamlit.app/)**
 
 **Overview**
 - This project implements a recommendation system for TV shows using machine learning techniques. The goal is to suggest shows tailored to user preferences based on ratings, genres, and viewing history.
