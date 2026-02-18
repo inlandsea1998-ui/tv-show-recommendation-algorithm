@@ -38,5 +38,9 @@
 - Displays results in a grid layout with show titles, genres, and ratings.
 - Easy to deploy and share via a public Streamlit URL.
 
+## 📸 Preview
+Here’s a screenshot of the app in action:
+![Preview](Screenshot.png)
+
 
 
