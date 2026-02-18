@@ -28,9 +28,7 @@
 
 **📺Streamlit App**
 
-**In addition to the Jupyter Notebook workflow, Streamlit web application for interactive recommendations is available via url below.**
-
-**url: https://tv-show-recommendation-algorithm.streamlit.app/**
+**In addition to the Jupyter Notebook workflow, Streamlit web application for interactive recommendations is also available via url in the first line.**
 
 **Features**
 - User-friendly interface where visitors can type in their favorite TV show.
